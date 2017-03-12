@@ -9,7 +9,7 @@ A list of great links to learn and pratice design and programming.
     - [HTML](#html)
     - [CSS](#css)
     - [Javascript](#javascript)
-- [Paid Courses](#paid-courses)
+- [All in one](#all-in-one)
 - [General](#general)
 
 ----
@@ -42,8 +42,12 @@ Below, the best links to learn web development:
 - [SoloLearn](https://www.sololearn.com/Course/CSS/)
 - [Tableless](https://tableless.com.br/)
 
-##### Paid Courses
-- [Alura](https://www.alura.com.br/)
+##### Javascript
+- [MVA - Microsoft](https://mva.microsoft.com/en-us/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
+
+##### All-in-one (Front-end + HTML + CSS + JS + Back-end)
+- [Alura](https://www.alura.com.br/) :moneybag:
+- [Udacity](https://br.udacity.com) :moneybag:
 
 ##### General
 - [Stackoverflow](http://stackoverflow.com/)
