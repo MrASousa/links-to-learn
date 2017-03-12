@@ -45,8 +45,8 @@ Below, the best links to learn web development:
 ##### Javascript
 - [MVA - Microsoft](https://mva.microsoft.com/en-us/training-courses/javascript-fundamentals-for-absolute-beginners-14194)
 
-##### All-in-one (Front-end + HTML + CSS + JS + Back-end)
-- [Alura](https://www.alura.com.br/) :moneybag:
+##### All-in-one (Front-end + Back-end)
+- [Alura(PT)](https://www.alura.com.br/) :moneybag:
 - [Udacity](https://br.udacity.com) :moneybag:
 
 ##### General
